@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Hello World with OpenShift!</h2>
-<h1>My first commit to an OpenShift App</h1>
+<h2>Hello World with OpenShift!</h2></br>
+My second commit to an OpenShift App
 </body>
 </html>
