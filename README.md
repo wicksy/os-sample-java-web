@@ -1,2 +1,2 @@
 # os-sample-java-web
-Sample Java Web Application for use in OpenShift
+Sample Hello World Java Web Application for Red Hat OpenShift
